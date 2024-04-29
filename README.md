@@ -1,3 +1,3 @@
 ## Preview of the Page
-Check page link : https://abhixdev.github.io/basic-landing-page/
+https://basic-landing-page-psi.vercel.app
 <img src="./assets/Capture.png" alt="screenshot" />
